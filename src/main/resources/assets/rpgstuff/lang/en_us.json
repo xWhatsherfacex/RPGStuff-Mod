@@ -1,0 +1,13 @@
+{
+ 	"item.rpgstuff.d100_item": "D100",
+ 	"item.rpgstuff.d20_item": "D20",
+ 	"item.rpgstuff.d12_item": "D12",
+ 	"item.rpgstuff.d10_item": "D10",
+ 	"item.rpgstuff.d8_item": "D8",
+ 	"item.rpgstuff.d6_item": "D6",
+ 	"item.rpgstuff.d4_item": "D4",
+ 	 	
+ 	"itemGroup.maintab": "RPG Stuff Tab"
+
+
+}

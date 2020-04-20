@@ -1,0 +1,42 @@
+modLoader="javafml" 
+
+loaderVersion="[31,)" 
+
+issueTrackerURL="https://github.com/xWhatsherfacex/Mores1.5.12/issues" 
+
+[[mods]] 
+
+modId="rpgstuff"
+
+version="1.0" #mandatory
+
+displayName="M'Ores"
+
+updateJSONURL="https://myurl.me"
+
+displayURL="https://example.com"
+
+logoFile="rpgstuff.png"
+
+credits="Everyone who has supported this mod development!"
+
+# A text field displayed in the mod UI
+authors="xWhatsherfacex" #optional
+
+description='''
+	This is a WIP mod that adds a variety of ores and gems!
+'''
+
+[[dependencies.rpgstuff]]
+    modId="forge" 
+    mandatory=true 
+    versionRange="[31,)" 
+    ordering="NONE"
+    side="BOTH"
+	
+[[dependencies.rpgstuff]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,6 @@
+{
+"parent": "item/generated",
+"textures": {
+	"layer0": "rpgstuff:items/d4_item"
+	}
+}
