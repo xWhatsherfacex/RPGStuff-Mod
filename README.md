@@ -4,8 +4,3 @@ RPGStuff's goal is to make playing your favorite Tabletop RPG (Such as D&D or Pa
 ## Contributors
 
 xWhatsherfacex: Idea and Project Creator; Developer; Contributor; Author 
-
-
-## License
-
-RPGStuff uses the GNU GPL Version 3 (See LICENSE)
